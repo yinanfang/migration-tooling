@@ -22,9 +22,10 @@ java_import(
 java_import(
     name = "maven_model",
     jars = [
-        "maven_model/maven-aether-provider-3.2.3.jar",
-        "maven_model/maven-model-3.2.3.jar",
-        "maven_model/maven-model-builder-3.2.3.jar",
-        "maven_model/maven-repository-metadata-3.2.3.jar",
+        "maven_model/maven-aether-provider-3.3.9.jar",
+        "maven_model/maven-model-3.3.9.jar",
+        "maven_model/maven-model-builder-3.3.9.jar",
+        "maven_model/maven-repository-metadata-3.3.9.jar",
+        "maven_model/maven-builder-support-3.3.9.jar",
     ],
 )
